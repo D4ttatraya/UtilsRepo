@@ -108,6 +108,10 @@
     "model": "iPad12,1/iPad12,2"
   },
   {
+    "name": "iPad (10th generation)",
+    "model": "iPad13,18/iPad13,19"
+  },
+  {
     "name": "iPad Air",
     "model": "iPad4,1/iPad4,2/iPad4,3"
   },
@@ -166,6 +170,14 @@
   {
     "name": "iPad Pro (12.9-inch) (5th generation)",
     "model": "iPad13,8/iPad13,9/iPad13,10/iPad13,11"
+  },
+  {
+    "name": "iPad Pro (11-inch) (4th generation)",
+    "model": "iPad14,3/iPad14,4"
+  },
+  {
+    "name": "iPad Pro (12.9-inch) (6th generation)",
+    "model": "iPAd14,5/iPad14,6"
   },
   {
     "name": "iPad mini",
