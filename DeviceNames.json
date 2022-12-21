@@ -152,31 +152,31 @@
     "model": "iPad8,1/iPad8,2/iPad8,3/iPad8,4"
   },
   {
-    "name": "iPad Pro (12.9-inch) (3rd generation)",
+    "name": "iPad Pro (12.9-inch, 3rd generation)",
     "model": "iPad8,5/iPad8,6/iPad8,7/iPad8,8"
   },
   {
-    "name": "iPad Pro (11-inch) (2nd generation)",
+    "name": "iPad Pro (11-inch, 2nd generation)",
     "model": "iPad8,9/iPad8,10"
   },
   {
-    "name": "iPad Pro (12.9-inch) (4th generation)",
+    "name": "iPad Pro (12.9-inch, 4th generation)",
     "model": "iPad8,11/iPad8,12"
   },
   {
-    "name": "iPad Pro (11-inch) (3rd generation)",
+    "name": "iPad Pro (11-inch, 3rd generation)",
     "model": "iPad13,4/iPad13,5/iPad13,6/iPad13,7"
   },
   {
-    "name": "iPad Pro (12.9-inch) (5th generation)",
+    "name": "iPad Pro (12.9-inch, 5th generation)",
     "model": "iPad13,8/iPad13,9/iPad13,10/iPad13,11"
   },
   {
-    "name": "iPad Pro (11-inch) (4th generation)",
+    "name": "iPad Pro (11-inch, 4th generation)",
     "model": "iPad14,3/iPad14,4"
   },
   {
-    "name": "iPad Pro (12.9-inch) (6th generation)",
+    "name": "iPad Pro (12.9-inch, 6th generation)",
     "model": "iPad14,5/iPad14,6"
   },
   {
@@ -220,7 +220,7 @@
     "model": "iPhone3,1/iPhone3,2/iPhone3,3"
   },
   {
-    "name": "iPhone 4S",
+    "name": "iPhone 4s",
     "model": "iPhone4,1"
   },
   {
@@ -440,7 +440,7 @@
     "model": "MacBookPro8,1"
   },
   {
-    "name": "MacBook Pro (15-inch Early/Late 2011)",
+    "name": "MacBook Pro (15-inch, Early/Late 2011)",
     "model": "MacBookPro8,2"
   },
   {
@@ -456,203 +456,203 @@
     "model": "MacBookPro9,2"
   },
   {
-    "name": "MacBook Pro (15-inch Retina 2012/Early 2013",
+    "name": "MacBook Pro (15-inch, Retina 2012/Early 2013)",
     "model": "MacBookPro10,1"
   },
   {
-    "name": "MacBook Pro (13-inch Retina 2012/Early 2013",
+    "name": "MacBook Pro (13-inch, Retina 2012/Early 2013)",
     "model": "MacBookPro10,2"
   },
   {
-    "name": "MacBook Pro (13-inch Late 2013)",
+    "name": "MacBook Pro (13-inch, Late 2013)",
     "model": "MacBookPro11,1"
   },
   {
-    "name": "MacBook Pro (15-inch Late 2013)",
+    "name": "MacBook Pro (15-inch, Late 2013)",
     "model": "MacBookPro11,2"
   },
   {
-    "name": "MacBook Pro (15-inch Mid 2014)",
+    "name": "MacBook Pro (15-inch, Mid 2014)",
     "model": "MacBookPro11,3"
   },
   {
-    "name": "MacBook Pro (15-inch Mid 2015)",
+    "name": "MacBook Pro (15-inch, Mid 2015)",
     "model": "MacBookPro11,4/MacBookPro11,5"
   },
   {
-    "name": "MacBook Pro (13-inch Early 2015)",
+    "name": "MacBook Pro (13-inch, Early 2015)",
     "model": "MacBookPro12,1"
   },
   {
-    "name": "MacBook Pro (13-inch Late 2016)",
+    "name": "MacBook Pro (13-inch, Late 2016)",
     "model": "MacBookPro13,1/MacBookPro13,2"
   },
   {
-    "name": "MacBook Pro (15-inch Late 2016)",
+    "name": "MacBook Pro (15-inch, Late 2016)",
     "model": "MacBookPro13,3"
   },
   {
-    "name": "MacBook Pro (13-inch Mid 2017)",
+    "name": "MacBook Pro (13-inch, Mid 2017)",
     "model": "MacBookPro14,1/MacBookPro14,2"
   },
   {
-    "name": "MacBook Pro (15-inch Mid 2017)",
+    "name": "MacBook Pro (15-inch, Mid 2017)",
     "model": "MacBookPro14,3"
   },
   {
-    "name": "MacBook Pro (15-inch 2018)",
+    "name": "MacBook Pro (15-inch, 2018)",
     "model": "MacBookPro15,1"
   },
   {
-    "name": "MacBook Pro (13-inch 2018)",
+    "name": "MacBook Pro (13-inch, 2018)",
     "model": "MacBookPro15,2"
   },
   {
-    "name": "MacBook Pro (15-inch 2019)",
+    "name": "MacBook Pro (15-inch, 2019)",
     "model": "MacBookPro15,3"
   },
   {
-    "name": "MacBook Pro (13-inch 2019)",
+    "name": "MacBook Pro (13-inch, 2019)",
     "model": "MacBookPro15,4"
   },
   {
-    "name": "MacBook Pro (16-inch 2019)",
+    "name": "MacBook Pro (16-inch, 2019)",
     "model": "MacBookPro16,1"
   },
   {
-    "name": "MacBook Pro (13-inch 2020)",
+    "name": "MacBook Pro (13-inch, 2020)",
     "model": "MacBookPro16,2/MacBookPro16,3"
   },
   {
-    "name": "MacBook Pro (16-inch 2020)",
+    "name": "MacBook Pro (16-inch, 2020)",
     "model": "MacBookPro16,4"
   },
   {
-    "name": "MacBook Pro (13-inch M1 2020)",
+    "name": "MacBook Pro (13-inch, M1 2020)",
     "model": "MacBookPro17,1"
   },
   {
-    "name": "MacBook Pro (16-inch 2021)",
+    "name": "MacBook Pro (16-inch, 2021)",
     "model": "MacBookPro18,1/MacBookPro18,2"
   },
   {
-    "name": "MacBook Pro (14-inch 2021)",
+    "name": "MacBook Pro (14-inch, 2021)",
     "model": "MacBookPro18,3/MacBookPro18,4"
   },
   {
-    "name": "MacBook Pro (13-inch 2022)",
+    "name": "MacBook Pro (13-inch, 2022)",
     "model": "Mac14,7"
   },
   {
-    "name": "MacBook Air (13-inch Original 2008)",
+    "name": "MacBook Air (13-inch, Original 2008)",
     "model": "MacBookAir1,1"
   },
   {
-    "name": "MacBook Air (13-inch Late 2008/Mid 2009)",
+    "name": "MacBook Air (13-inch, Late 2008/Mid 2009)",
     "model": "MacBookAir2,1"
   },
   {
-    "name": "MacBook Air (11-inch Late 2010)",
+    "name": "MacBook Air (11-inch, Late 2010)",
     "model": "MacBookAir3,1"
   },
   {
-    "name": "MacBook Air (13-inch Late 2010)",
+    "name": "MacBook Air (13-inch, Late 2010)",
     "model": "MacBookAir3,2"
   },
   {
-    "name": "MacBook Air (11-inch Mid 2011)",
+    "name": "MacBook Air (11-inch, Mid 2011)",
     "model": "MacBookAir4,1"
   },
   {
-    "name": "MacBook Air (13-inch Mid 2011)",
+    "name": "MacBook Air (13-inch, Mid 2011)",
     "model": "MacBookAir4,2"
   },
   {
-    "name": "MacBook Air (11-inch Mid 2012)",
+    "name": "MacBook Air (11-inch, Mid 2012)",
     "model": "MacBookAir5,1"
   },
   {
-    "name": "MacBook Air (13-inch Mid 2012)",
+    "name": "MacBook Air (13-inch, Mid 2012)",
     "model": "MacBookAir5,2"
   },
   {
-    "name": "MacBook Air (11-inch Mid 2013/Early 2014)",
+    "name": "MacBook Air (11-inch, Mid 2013/Early 2014)",
     "model": "MacBookAir6,1"
   },
   {
-    "name": "MacBook Air (13-inch Mid 2013/Early 2014)",
+    "name": "MacBook Air (13-inch, Mid 2013/Early 2014)",
     "model": "MacBookAir6,2"
   },
   {
-    "name": "MacBook Air (11-inch Early 2015)",
+    "name": "MacBook Air (11-inch, Early 2015)",
     "model": "MacBookAir7,1"
   },
   {
-    "name": "MacBook Air (13-inch Early 2015/Mid 2017)",
+    "name": "MacBook Air (13-inch, Early 2015/Mid 2017)",
     "model": "MacBookAir7,2"
   },
   {
-    "name": "MacBook Air (13-inch Late 2018)",
+    "name": "MacBook Air (13-inch, Late 2018)",
     "model": "MacBookAir8,1"
   },
   {
-    "name": "MacBook Air (13-inch 2019)",
+    "name": "MacBook Air (13-inch, 2019)",
     "model": "MacBookAir8,2"
   },
   {
-    "name": "MacBook Air (13-inch 2020)",
+    "name": "MacBook Air (13-inch, 2020)",
     "model": "MacBookAir9,1"
   },
   {
-    "name": "MacBook Air (13-inch M1 2020)",
+    "name": "MacBook Air (13-inch, M1 2020)",
     "model": "MacBookAir10,1"
   },
   {
-    "name": "MacBook Air (13-inch 2022)",
+    "name": "MacBook Air (13-inch, 2022)",
     "model": "Mac14,2"
   },
   {
-    "name": "MacBook (13-inch Original 2006)",
+    "name": "MacBook (13-inch, Original 2006)",
     "model": "MacBook1,1"
   },
   {
-    "name": "MacBook (13-inch Late 2006/Mid 2007)",
+    "name": "MacBook (13-inch, Late 2006/Mid 2007)",
     "model": "MacBook2,1"
   },
   {
-    "name": "MacBook (13-inch Late 2007)",
+    "name": "MacBook (13-inch, Late 2007)",
     "model": "MacBook3,1"
   },
   {
-    "name": "MacBook (13-inch Early 2008)",
+    "name": "MacBook (13-inch, Early 2008)",
     "model": "MacBook4,1"
   },
   {
-    "name": "MacBook (13-inch Late 2008)",
+    "name": "MacBook (13-inch, Late 2008)",
     "model": "MacBook5,1"
   },
   {
-    "name": "MacBook (13-inch Early/Mid 2009)",
+    "name": "MacBook (13-inch, Early/Mid 2009)",
     "model": "MacBook5,2"
   },
   {
-    "name": "MacBook (13-inch Late 2009)",
+    "name": "MacBook (13-inch, Late 2009)",
     "model": "MacBook6,1"
   },
   {
-    "name": "MacBook (13-inch Mid 2010)",
+    "name": "MacBook (13-inch, Mid 2010)",
     "model": "MacBook7,1"
   },
   {
-    "name": "MacBook (12-inch Early 2015)",
+    "name": "MacBook (12-inch, Early 2015)",
     "model": "MacBook8,1"
   },
   {
-    "name": "MacBook (12-inch Early 2016)",
+    "name": "MacBook (12-inch, Early 2016)",
     "model": "MacBook9,1"
   },
   {
-    "name": "MacBook (12-inch Mid 2017)",
+    "name": "MacBook (12-inch, Mid 2017)",
     "model": "MacBook10,1"
   },
   {
@@ -684,115 +684,115 @@
     "model": "MacPro7,1"
   },
   {
-    "name": "iMac (17/20-inch Early 2006)",
+    "name": "iMac (17/20-inch, Early 2006)",
     "model": "iMac4,1"
   },
   {
-    "name": "iMac (17-inch Mid 2006)",
+    "name": "iMac (17-inch, Mid 2006)",
     "model": "iMac4,2"
   },
   {
-    "name": "iMac (17/20-inch Late 2006)",
+    "name": "iMac (17/20-inch, Late 2006)",
     "model": "iMac5,1"
   },
   {
-    "name": "iMac (17-inch Late 2006)",
+    "name": "iMac (17-inch, Late 2006)",
     "model": "iMac5,2"
   },
   {
-    "name": "iMac (24-inch 2006)",
+    "name": "iMac (24-inch, 2006)",
     "model": "iMac6,1"
   },
   {
-    "name": "iMac (20/24-inch 2007)",
+    "name": "iMac (20/24-inch, 2007)",
     "model": "iMac7,1"
   },
   {
-    "name": "iMac (20/24-inch 2008)",
+    "name": "iMac (20/24-inch, 2008)",
     "model": "iMac8,1"
   },
   {
-    "name": "iMac (20/24-inch 2009)",
+    "name": "iMac (20/24-inch, 2009)",
     "model": "iMac9,1"
   },
   {
-    "name": "iMac (21.5-inch Late 2009)",
+    "name": "iMac (21.5-inch, Late 2009)",
     "model": "iMac10,1"
   },
   {
-    "name": "iMac (27-inch 2009)",
+    "name": "iMac (27-inch, 2009)",
     "model": "iMac11,1"
   },
   {
-    "name": "iMac (21.5-inch 2010)",
+    "name": "iMac (21.5-inch, 2010)",
     "model": "iMac11,2"
   },
   {
-    "name": "iMac (27-inch 2010)",
+    "name": "iMac (27-inch, 2010)",
     "model": "iMac11,3"
   },
   {
-    "name": "iMac (21.5-inch 2011)",
+    "name": "iMac (21.5-inch, 2011)",
     "model": "iMac12,1"
   },
   {
-    "name": "iMac (27-inch 2011)",
+    "name": "iMac (27-inch, 2011)",
     "model": "iMac12,2"
   },
   {
-    "name": "iMac (21.5-inch 2012)",
+    "name": "iMac (21.5-inch, 2012)",
     "model": "iMac13,1/iMac13,3"
   },
   {
-    "name": "iMac (27-inch 2012)",
+    "name": "iMac (27-inch, 2012)",
     "model": "iMac13,2"
   },
   {
-    "name": "iMac (21.5-inch 2013)",
+    "name": "iMac (21.5-inch, 2013)",
     "model": "iMac14,1/iMac14,3"
   },
   {
-    "name": "iMac (27-inch 2013)",
+    "name": "iMac (27-inch, 2013)",
     "model": "iMac14,2"
   },
   {
-    "name": "iMac (21.5-inch 2014)",
+    "name": "iMac (21.5-inch, 2014)",
     "model": "iMac14,4"
   },
   {
-    "name": "iMac (27-inch 2014/Mid 2015)",
+    "name": "iMac (27-inch, 2014/Mid 2015)",
     "model": "iMac15,1/iMac15,2"
   },
   {
-    "name": "iMac (21.5-inch 2015)",
+    "name": "iMac (21.5-inch, 2015)",
     "model": "iMac16,1/iMac16,2"
   },
   {
-    "name": "iMac (27-inch Late 2015)",
+    "name": "iMac (27-inch, Late 2015)",
     "model": "iMac17,1"
   },
   {
-    "name": "iMac (21.5-inch 2017)",
+    "name": "iMac (21.5-inch, 2017)",
     "model": "iMac18,1"
   },
   {
-    "name": "iMac (21.5-inch 4K 2017)",
+    "name": "iMac (21.5-inch, 4K 2017)",
     "model": "iMac18,2"
   },
   {
-    "name": "iMac (27-inch 2017)",
+    "name": "iMac (27-inch, 2017)",
     "model": "iMac18,3"
   },
   {
-    "name": "iMac (27-inch 2019)",
+    "name": "iMac (27-inch, 2019)",
     "model": "iMac19,1"
   },
   {
-    "name": "iMac (21.5-inch 2019)",
+    "name": "iMac (21.5-inch, 2019)",
     "model": "iMac19,2"
   },
   {
-    "name": "iMac (27-inch 2020)",
+    "name": "iMac (27-inch, 2020)",
     "model": "iMac20,1/iMac20,2"
   },
   {
@@ -800,7 +800,7 @@
     "model": "iMac21,1/iMac21,2"
   },
   {
-    "name": "iMac Pro (27-inch 2017)",
+    "name": "iMac Pro (27-inch, 2017)",
     "model": "iMacPro1,1"
   },
   {
