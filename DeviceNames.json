@@ -104,8 +104,12 @@
     "model": "Watch6,11/Watch6,13"
   },
   {
-    "name": "Apple Watch Series 8",
-    "model": "Watch6,14/Watch6,15/Watch6,16/Watch6,17"
+    "name": "Apple Watch Series 8 (41mm)",
+    "model": "Watch6,14/Watch6,16"
+  },
+  {
+    "name": "Apple Watch Series 8 (44mm)",
+    "model": "Watch6,15/Watch6,17"
   },
   {
     "name": "Apple Watch Ultra",
