@@ -10,7 +10,12 @@ Device details of all the Apple devices (iPhones, iPads, iPods, Apple Watches, A
 1. Device Identifiers: all the devices launched till the date of update
 2. Screen Resoltions: all the iPhones and iPods launched till the date of update
 
+
 <br/><br/>
+#### Source:
+Mostly from: [TheAppleWiki](https://theapplewiki.com/wiki/Models)
+<br>Rest from: all over the internet
+
 <br/><br/>
 
 P.S.
