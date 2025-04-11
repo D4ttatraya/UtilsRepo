@@ -1,890 +1,1182 @@
 [
   {
     "name": "Apple TV (1st generation)",
-    "model": "AppleTV1,1"
+    "device_identifier": "AppleTV1,1"
   },
   {
     "name": "Apple TV (2nd generation)",
-    "model": "AppleTV2,1"
+    "device_identifier": "AppleTV2,1"
   },
   {
     "name": "Apple TV (3rd generation)",
-    "model": "AppleTV3,1/AppleTV3,2"
+    "device_identifier": "AppleTV3,1/AppleTV3,2"
   },
   {
     "name": "Apple TV (4th generation)",
-    "model": "AppleTV5,3"
+    "device_identifier": "AppleTV5,3"
   },
   {
     "name": "Apple TV 4K",
-    "model": "AppleTV6,2"
+    "device_identifier": "AppleTV6,2"
   },
   {
     "name": "Apple TV 4K (2nd generation)",
-    "model": "AppleTV11,1"
+    "device_identifier": "AppleTV11,1"
+  },
+  {
+    "name": "Apple TV 4K (3rd generation)",
+    "device_identifier": "AppleTV14,1"
   },
   {
     "name": "Apple Watch (1st generation, 38mm)",
-    "model": "Watch1,1"
+    "device_identifier": "Watch1,1"
   },
   {
     "name": "Apple Watch (1st generation, 42mm)",
-    "model": "Watch1,2"
+    "device_identifier": "Watch1,2"
   },
   {
     "name": "Apple Watch Series 1 (38mm)",
-    "model": "Watch2,6"
+    "device_identifier": "Watch2,6"
   },
   {
     "name": "Apple Watch Series 1 (42mm)",
-    "model": "Watch2,7"
+    "device_identifier": "Watch2,7"
   },
   {
     "name": "Apple Watch Series 2 (38mm)",
-    "model": "Watch2,3"
+    "device_identifier": "Watch2,3"
   },
   {
     "name": "Apple Watch Series 2 (42mm)",
-    "model": "Watch2,4"
+    "device_identifier": "Watch2,4"
   },
   {
     "name": "Apple Watch Series 3 (38mm)",
-    "model": "Watch3,1/Watch3,3"
+    "device_identifier": "Watch3,1/Watch3,3"
   },
   {
     "name": "Apple Watch Series 3 (42mm)",
-    "model": "Watch3,2/Watch3,4"
+    "device_identifier": "Watch3,2/Watch3,4"
   },
   {
     "name": "Apple Watch Series 4 (40mm)",
-    "model": "Watch4,1/Watch4,3"
+    "device_identifier": "Watch4,1/Watch4,3"
   },
   {
     "name": "Apple Watch Series 4 (44mm)",
-    "model": "Watch4,2/Watch4,4"
+    "device_identifier": "Watch4,2/Watch4,4"
   },
   {
     "name": "Apple Watch Series 5 (40mm)",
-    "model": "Watch5,1/Watch5,3"
+    "device_identifier": "Watch5,1/Watch5,3"
   },
   {
     "name": "Apple Watch Series 5 (44mm)",
-    "model": "Watch5,2/Watch5,4"
+    "device_identifier": "Watch5,2/Watch5,4"
   },
   {
     "name": "Apple Watch SE (40mm)",
-    "model": "Watch5,9/Watch5,11"
+    "device_identifier": "Watch5,9/Watch5,11"
   },
   {
     "name": "Apple Watch SE (44mm)",
-    "model": "Watch5,10/Watch5,12"
+    "device_identifier": "Watch5,10/Watch5,12"
   },
   {
     "name": "Apple Watch Series 6 (40mm)",
-    "model": "Watch6,1/Watch6,3"
+    "device_identifier": "Watch6,1/Watch6,3"
   },
   {
     "name": "Apple Watch Series 6 (44mm)",
-    "model": "Watch6,2/Watch6,4"
+    "device_identifier": "Watch6,2/Watch6,4"
   },
   {
     "name": "Apple Watch Series 7 (41mm)",
-    "model": "Watch6,6/Watch6,8"
+    "device_identifier": "Watch6,6/Watch6,8"
   },
   {
     "name": "Apple Watch Series 7 (45mm)",
-    "model": "Watch6,7/Watch6,9"
+    "device_identifier": "Watch6,7/Watch6,9"
   },
   {
     "name": "Apple Watch SE (2nd generation, 40mm)",
-    "model": "Watch6,10/Watch6,12"
+    "device_identifier": "Watch6,10/Watch6,12"
   },
   {
     "name": "Apple Watch SE (2nd generation, 44mm)",
-    "model": "Watch6,11/Watch6,13"
+    "device_identifier": "Watch6,11/Watch6,13"
   },
   {
     "name": "Apple Watch Series 8 (41mm)",
-    "model": "Watch6,14/Watch6,16"
+    "device_identifier": "Watch6,14/Watch6,16"
   },
   {
     "name": "Apple Watch Series 8 (45mm)",
-    "model": "Watch6,15/Watch6,17"
+    "device_identifier": "Watch6,15/Watch6,17"
   },
   {
     "name": "Apple Watch Ultra",
-    "model": "Watch6,18"
+    "device_identifier": "Watch6,18"
+  },
+  {
+    "name": "Apple Watch Series 9 (41mm)",
+    "device_identifier": "Watch7,1/Watch7,3"
+  },
+  {
+    "name": "Apple Watch Series 9 (45mm)",
+    "device_identifier": "Watch7,2/Watch7,4"
+  },
+  {
+    "name": "Apple Watch Ultra 2",
+    "device_identifier": "Watch7,5"
+  },
+  {
+    "name": "Apple Watch Series 10 (42mm)",
+    "device_identifier": "Watch7,8/Watch7,10"
+  },
+  {
+    "name": "Apple Watch Series 10 (46mm)",
+    "device_identifier": "Watch7,9/Watch7,11"
   },
   {
     "name": "iPad",
-    "model": "iPad1,1"
+    "device_identifier": "iPad1,1"
   },
   {
     "name": "iPad 2",
-    "model": "iPad2,1/iPad2,2/iPad2,3/iPad2,4"
+    "device_identifier": "iPad2,1/iPad2,2/iPad2,3/iPad2,4"
   },
   {
     "name": "iPad (3rd generation)",
-    "model": "iPad3,1/iPad3,2/iPad3,3"
+    "device_identifier": "iPad3,1/iPad3,2/iPad3,3"
   },
   {
     "name": "iPad (4th generation)",
-    "model": "iPad3,4/iPad3,5/iPad3,6"
+    "device_identifier": "iPad3,4/iPad3,5/iPad3,6"
   },
   {
     "name": "iPad (5th generation)",
-    "model": "iPad6,11/iPad6,12"
+    "device_identifier": "iPad6,11/iPad6,12"
   },
   {
     "name": "iPad (6th generation)",
-    "model": "iPad7,5/iPad7,6"
+    "device_identifier": "iPad7,5/iPad7,6"
   },
   {
     "name": "iPad (7th generation)",
-    "model": "iPad7,11/iPad7,12"
+    "device_identifier": "iPad7,11/iPad7,12"
   },
   {
     "name": "iPad (8th generation)",
-    "model": "iPad11,6/iPad11,7"
+    "device_identifier": "iPad11,6/iPad11,7"
   },
   {
     "name": "iPad (9th generation)",
-    "model": "iPad12,1/iPad12,2"
+    "device_identifier": "iPad12,1/iPad12,2"
   },
   {
     "name": "iPad (10th generation)",
-    "model": "iPad13,18/iPad13,19"
+    "device_identifier": "iPad13,18/iPad13,19"
+  },
+  {
+    "name": "iPad (A16)",
+    "device_identifier": "iPad15,7/iPad15,8"
   },
   {
     "name": "iPad Air",
-    "model": "iPad4,1/iPad4,2/iPad4,3"
+    "device_identifier": "iPad4,1/iPad4,2/iPad4,3"
   },
   {
     "name": "iPad Air 2",
-    "model": "iPad5,3/iPad5,4"
+    "device_identifier": "iPad5,3/iPad5,4"
   },
   {
     "name": "iPad Air (3rd generation)",
-    "model": "iPad11,3/iPad11,4"
+    "device_identifier": "iPad11,3/iPad11,4"
   },
   {
     "name": "iPad Air (4th generation)",
-    "model": "iPad13,1/iPad13,2"
+    "device_identifier": "iPad13,1/iPad13,2"
   },
   {
     "name": "iPad Air (5th generation)",
-    "model": "iPad13,16/iPad13,17"
+    "device_identifier": "iPad13,16/iPad13,17"
+  },
+  {
+    "name": "iPad Air 11-inch (M2)",
+    "device_identifier": "iPad14,8/iPad14,9"
+  },
+  {
+    "name": "iPad Air 13-inch (M2)",
+    "device_identifier": "iPad14,10/iPad14,11"
+  },
+  {
+    "name": "iPad Air 11-inch (M3)",
+    "device_identifier": "iPad15,3/iPad15,4"
+  },
+  {
+    "name": "iPad Air 13-inch (M3)",
+    "device_identifier": "iPad15,5/iPad15,6"
   },
   {
     "name": "iPad Pro (12.9-inch)",
-    "model": "iPad6,7/iPad6,8"
+    "device_identifier": "iPad6,7/iPad6,8"
   },
   {
     "name": "iPad Pro (9.7-inch)",
-    "model": "iPad6,3/iPad6,4"
+    "device_identifier": "iPad6,3/iPad6,4"
   },
   {
     "name": "iPad Pro (12.9-inch, 2nd generation)",
-    "model": "iPad7,1/iPad7,2"
+    "device_identifier": "iPad7,1/iPad7,2"
   },
   {
     "name": "iPad Pro (10.5-inch)",
-    "model": "iPad7,3/iPad7,4"
+    "device_identifier": "iPad7,3/iPad7,4"
   },
   {
     "name": "iPad Pro (11-inch)",
-    "model": "iPad8,1/iPad8,2/iPad8,3/iPad8,4"
+    "device_identifier": "iPad8,1/iPad8,2/iPad8,3/iPad8,4"
   },
   {
     "name": "iPad Pro (12.9-inch, 3rd generation)",
-    "model": "iPad8,5/iPad8,6/iPad8,7/iPad8,8"
+    "device_identifier": "iPad8,5/iPad8,6/iPad8,7/iPad8,8"
   },
   {
     "name": "iPad Pro (11-inch, 2nd generation)",
-    "model": "iPad8,9/iPad8,10"
+    "device_identifier": "iPad8,9/iPad8,10"
   },
   {
     "name": "iPad Pro (12.9-inch, 4th generation)",
-    "model": "iPad8,11/iPad8,12"
+    "device_identifier": "iPad8,11/iPad8,12"
   },
   {
     "name": "iPad Pro (11-inch, 3rd generation)",
-    "model": "iPad13,4/iPad13,5/iPad13,6/iPad13,7"
+    "device_identifier": "iPad13,4/iPad13,5/iPad13,6/iPad13,7"
   },
   {
     "name": "iPad Pro (12.9-inch, 5th generation)",
-    "model": "iPad13,8/iPad13,9/iPad13,10/iPad13,11"
+    "device_identifier": "iPad13,8/iPad13,9/iPad13,10/iPad13,11"
   },
   {
     "name": "iPad Pro (11-inch, 4th generation)",
-    "model": "iPad14,3/iPad14,4"
+    "device_identifier": "iPad14,3/iPad14,4"
   },
   {
     "name": "iPad Pro (12.9-inch, 6th generation)",
-    "model": "iPad14,5/iPad14,6"
+    "device_identifier": "iPad14,5/iPad14,6"
+  },
+  {
+    "name": "iPad Pro 11-inch (M4)",
+    "device_identifier": "iPad16,3 and iPad16,4"
+  },
+  {
+    "name": "iPad Pro 13-inch (M4)",
+    "device_identifier": "iPad16,5/iPad16,6"
   },
   {
     "name": "iPad mini",
-    "model": "iPad2,5/iPad2,6/iPad2,7"
+    "device_identifier": "iPad2,5/iPad2,6/iPad2,7"
   },
   {
     "name": "iPad mini 2",
-    "model": "iPad4,4/iPad4,5/iPad4,6"
+    "device_identifier": "iPad4,4/iPad4,5/iPad4,6"
   },
   {
     "name": "iPad mini 3",
-    "model": "iPad4,7/iPad4,8/iPad4,9"
+    "device_identifier": "iPad4,7/iPad4,8/iPad4,9"
   },
   {
     "name": "iPad mini 4",
-    "model": "iPad5,1/iPad5,2"
+    "device_identifier": "iPad5,1/iPad5,2"
   },
   {
     "name": "iPad mini (5th generation)",
-    "model": "iPad11,1/iPad11,2"
+    "device_identifier": "iPad11,1/iPad11,2"
   },
   {
     "name": "iPad mini (6th generation)",
-    "model": "iPad14,1/iPad14,2"
+    "device_identifier": "iPad14,1/iPad14,2"
+  },
+  {
+    "name": "iPad mini (A17 Pro)",
+    "device_identifier": "iPad16,1/iPad16,2"
   },
   {
     "name": "iPhone",
-    "model": "iPhone1,1"
+    "device_identifier": "iPhone1,1",
+    "resolution": "320 x 480",
+    "pixel_scale": 1
   },
   {
     "name": "iPhone 3G",
-    "model": "iPhone1,2"
+    "device_identifier": "iPhone1,2",
+    "resolution": "320 x 480",
+    "pixel_scale": 1
   },
   {
     "name": "iPhone 3GS",
-    "model": "iPhone2,1"
+    "device_identifier": "iPhone2,1",
+    "resolution": "320 x 480",
+    "pixel_scale": 1
   },
   {
     "name": "iPhone 4",
-    "model": "iPhone3,1/iPhone3,2/iPhone3,3"
+    "device_identifier": "iPhone3,1/iPhone3,2/iPhone3,3",
+    "resolution": "640 x 960",
+    "pixel_scale": 2
   },
   {
     "name": "iPhone 4s",
-    "model": "iPhone4,1"
+    "device_identifier": "iPhone4,1",
+    "resolution": "640 x 960",
+    "pixel_scale": 2
   },
   {
     "name": "iPhone 5",
-    "model": "iPhone5,1/iPhone5,2"
+    "device_identifier": "iPhone5,1/iPhone5,2",
+    "resolution": "640 x 1136",
+    "pixel_scale": 2
   },
   {
     "name": "iPhone 5c",
-    "model": "iPhone5,3/iPhone5,4"
+    "device_identifier": "iPhone5,3/iPhone5,4",
+    "resolution": "640 x 1136",
+    "pixel_scale": 2
   },
   {
     "name": "iPhone 5s",
-    "model": "iPhone6,1/iPhone6,2"
+    "device_identifier": "iPhone6,1/iPhone6,2",
+    "resolution": "640 x 1136",
+    "pixel_scale": 2
   },
   {
     "name": "iPhone SE (1st generation)",
-    "model": "iPhone8,4"
+    "device_identifier": "iPhone8,4",
+    "resolution": "640 x 1136",
+    "pixel_scale": 2
   },
   {
     "name": "iPhone 6",
-    "model": "iPhone7,2"
+    "device_identifier": "iPhone7,2",
+    "resolution": "750 x 1334",
+    "pixel_scale": 2
   },
   {
     "name": "iPhone 6 Plus",
-    "model": "iPhone7,1"
+    "device_identifier": "iPhone7,1",
+    "resolution": "1080 x 1920",
+    "pixel_scale": 3
   },
   {
     "name": "iPhone 6s",
-    "model": "iPhone8,1"
+    "device_identifier": "iPhone8,1",
+    "resolution": "750 x 1334",
+    "pixel_scale": 2
   },
   {
     "name": "iPhone 6s Plus",
-    "model": "iPhone8,2"
+    "device_identifier": "iPhone8,2",
+    "resolution": "1080 x 1920",
+    "pixel_scale": 3
   },
   {
     "name": "iPhone 7",
-    "model": "iPhone9,1/iPhone9,3"
+    "device_identifier": "iPhone9,1/iPhone9,3",
+    "resolution": "750 x 1334",
+    "pixel_scale": 2
   },
   {
     "name": "iPhone 7 Plus",
-    "model": "iPhone9,2/iPhone9,4"
+    "device_identifier": "iPhone9,2/iPhone9,4",
+    "resolution": "1080 x 1920",
+    "pixel_scale": 3
   },
   {
     "name": "iPhone 8",
-    "model": "iPhone10,1/iPhone10,4"
+    "device_identifier": "iPhone10,1/iPhone10,4",
+    "resolution": "750 x 1334",
+    "pixel_scale": 2
   },
   {
     "name": "iPhone 8 Plus",
-    "model": "iPhone10,2/iPhone10,5"
+    "device_identifier": "iPhone10,2/iPhone10,5",
+    "resolution": "1080 x 1920",
+    "pixel_scale": 3
   },
   {
     "name": "iPhone X",
-    "model": "iPhone10,3/iPhone10,6"
+    "device_identifier": "iPhone10,3/iPhone10,6",
+    "resolution": "1125 x 2436",
+    "pixel_scale": 3
   },
   {
     "name": "iPhone XR",
-    "model": "iPhone11,8"
+    "device_identifier": "iPhone11,8",
+    "resolution": "828 x 1792",
+    "pixel_scale": 2
   },
   {
     "name": "iPhone XS",
-    "model": "iPhone11,2"
+    "device_identifier": "iPhone11,2",
+    "resolution": "1125 x 2436",
+    "pixel_scale": 3
   },
   {
     "name": "iPhone XS Max",
-    "model": "iPhone11,4/iPhone11,6"
+    "device_identifier": "iPhone11,4/iPhone11,6",
+    "resolution": "1242 x 2688",
+    "pixel_scale": 3
   },
   {
     "name": "iPhone 11",
-    "model": "iPhone12,1"
+    "device_identifier": "iPhone12,1",
+    "resolution": "828 x 1792",
+    "pixel_scale": 2
   },
   {
     "name": "iPhone 11 Pro",
-    "model": "iPhone12,3"
+    "device_identifier": "iPhone12,3",
+    "resolution": "1125 x 2436",
+    "pixel_scale": 3
   },
   {
     "name": "iPhone 11 Pro Max",
-    "model": "iPhone12,5"
+    "device_identifier": "iPhone12,5",
+    "resolution": "1242 x 2688",
+    "pixel_scale": 3
   },
   {
     "name": "iPhone SE (2nd generation)",
-    "model": "iPhone12,8"
+    "device_identifier": "iPhone12,8",
+    "resolution": "750 x 1334",
+    "pixel_scale": 2
   },
   {
     "name": "iPhone 12 mini",
-    "model": "iPhone13,1"
+    "device_identifier": "iPhone13,1",
+    "resolution": "1080 x 2340",
+    "pixel_scale": 3
   },
   {
     "name": "iPhone 12",
-    "model": "iPhone13,2"
+    "device_identifier": "iPhone13,2",
+    "resolution": "1170 x 2532",
+    "pixel_scale": 3
   },
   {
     "name": "iPhone 12 Pro",
-    "model": "iPhone13,3"
+    "device_identifier": "iPhone13,3",
+    "resolution": "1170 x 2532",
+    "pixel_scale": 3
   },
   {
     "name": "iPhone 12 Pro Max",
-    "model": "iPhone13,4"
+    "device_identifier": "iPhone13,4",
+    "resolution": "1284 x 2778",
+    "pixel_scale": 3
   },
   {
     "name": "iPhone 13 mini",
-    "model": "iPhone14,4"
+    "device_identifier": "iPhone14,4",
+    "resolution": "1080 x 2340",
+    "pixel_scale": 3
   },
   {
     "name": "iPhone 13",
-    "model": "iPhone14,5"
+    "device_identifier": "iPhone14,5",
+    "resolution": "1170 x 2532",
+    "pixel_scale": 3
   },
   {
     "name": "iPhone 13 Pro",
-    "model": "iPhone14,2"
+    "device_identifier": "iPhone14,2",
+    "resolution": "1170 x 2532",
+    "pixel_scale": 3
   },
   {
     "name": "iPhone 13 Pro Max",
-    "model": "iPhone14,3"
+    "device_identifier": "iPhone14,3",
+    "resolution": "1284 x 2778",
+    "pixel_scale": 3
   },
   {
     "name": "iPhone SE (3rd generation)",
-    "model": "iPhone14,6"
+    "device_identifier": "iPhone14,6",
+    "resolution": "750 x 1334",
+    "pixel_scale": 2
   },
   {
     "name": "iPhone 14",
-    "model": "iPhone14,7"
+    "device_identifier": "iPhone14,7",
+    "resolution": "1170 x 2532",
+    "pixel_scale": 3
   },
   {
     "name": "iPhone 14 Plus",
-    "model": "iPhone14,8"
+    "device_identifier": "iPhone14,8",
+    "resolution": "1284 x 2778",
+    "pixel_scale": 3
   },
   {
     "name": "iPhone 14 Pro",
-    "model": "iPhone15,2"
+    "device_identifier": "iPhone15,2",
+    "resolution": "1179 x 2556",
+    "pixel_scale": 3
   },
   {
     "name": "iPhone 14 Pro Max",
-    "model": "iPhone15,3"
+    "device_identifier": "iPhone15,3",
+    "resolution": "1290 x 2796",
+    "pixel_scale": 3
+  },
+  {
+    "name": "iPhone 15",
+    "device_identifier": "iPhone15,4",
+    "resolution": "1179 x 2556",
+    "pixel_scale": 3
+  },
+  {
+    "name": "iPhone 15 Plus",
+    "device_identifier": "iPhone15,5",
+    "resolution": "1290 x 2796",
+    "pixel_scale": 3
+  },
+  {
+    "name": "iPhone 15 Pro",
+    "device_identifier": "iPhone16,1",
+    "resolution": "1179 x 2556",
+    "pixel_scale": 3
+  },
+  {
+    "name": "iPhone 15 Pro Max",
+    "device_identifier": "iPhone16,2",
+    "resolution": "1290 x 2796",
+    "pixel_scale": 3
+  },
+  {
+    "name": "iPhone 16",
+    "device_identifier": "iPhone17,3",
+    "resolution": "1179 x 2556",
+    "pixel_scale": 3
+  },
+  {
+    "name": "iPhone 16 Plus",
+    "device_identifier": "iPhone17,4",
+    "resolution": "1290 x 2796",
+    "pixel_scale": 3
+  },
+  {
+    "name": "iPhone 16 Pro",
+    "device_identifier": "iPhone17,1",
+    "resolution": "1206 x 2622",
+    "pixel_scale": 3
+  },
+  {
+    "name": "iPhone 16 Pro Max",
+    "device_identifier": "iPhone17,2",
+    "resolution": "1320 x 2868",
+    "pixel_scale": 3
+  },
+  {
+    "name": "iPhone 16e",
+    "device_identifier": "iPhone17,5",
+    "resolution": "1170 x 2532",
+    "pixel_scale": 3
   },
   {
     "name": "iPod touch",
-    "model": "iPod1,1"
+    "device_identifier": "iPod1,1",
+    "resolution": "320 x 480",
+    "pixel_scale": 1
   },
   {
     "name": "iPod touch (2nd generation)",
-    "model": "iPod2,1"
+    "device_identifier": "iPod2,1",
+    "resolution": "320 x 480",
+    "pixel_scale": 1
   },
   {
     "name": "iPod touch (3rd generation)",
-    "model": "iPod3,1"
+    "device_identifier": "iPod3,1",
+    "resolution": "320 x 480",
+    "pixel_scale": 1
   },
   {
     "name": "iPod touch (4th generation)",
-    "model": "iPod4,1"
+    "device_identifier": "iPod4,1",
+    "resolution": "640 x 960",
+    "pixel_scale": 2
   },
   {
     "name": "iPod touch (5th generation)",
-    "model": "iPod5,1"
+    "device_identifier": "iPod5,1",
+    "resolution": "640 x 1136",
+    "pixel_scale": 2
   },
   {
     "name": "iPod touch (6th generation)",
-    "model": "iPod7,1"
+    "device_identifier": "iPod7,1",
+    "resolution": "640 x 1136",
+    "pixel_scale": 2
   },
   {
     "name": "iPod touch (7th generation)",
-    "model": "iPod9,1"
+    "device_identifier": "iPod9,1",
+    "resolution": "640 x 1136",
+    "pixel_scale": 2
   },
   {
     "name": "MacBook Pro (15-inch, 2006)",
-    "model": "MacBookPro1,1"
+    "device_identifier": "MacBookPro1,1"
   },
   {
     "name": "MacBook Pro (17-inch, 2006)",
-    "model": "MacBookPro1,2"
+    "device_identifier": "MacBookPro1,2"
   },
   {
     "name": "MacBook Pro (17-inch, Late 2006)",
-    "model": "MacBookPro2,1"
+    "device_identifier": "MacBookPro2,1"
   },
   {
     "name": "MacBook Pro (15-inch, Late 2006)",
-    "model": "MacBookPro2,2"
+    "device_identifier": "MacBookPro2,2"
   },
   {
     "name": "MacBook Pro (15/17-inch, Late 2007)",
-    "model": "MacBookPro3,1"
+    "device_identifier": "MacBookPro3,1"
   },
   {
     "name": "MacBook Pro (15/17-inch, Early 2008)",
-    "model": "MacBookPro4,1"
+    "device_identifier": "MacBookPro4,1"
   },
   {
     "name": "MacBook Pro (15/17-inch, Late 2008)",
-    "model": "MacBookPro5,1"
+    "device_identifier": "MacBookPro5,1"
   },
   {
     "name": "MacBook Pro (17-inch, Early 2009)",
-    "model": "MacBookPro5,2"
+    "device_identifier": "MacBookPro5,2"
   },
   {
     "name": "MacBook Pro (15-inch, Mid 2009)",
-    "model": "MacBookPro5,3/MacBookPro5,4"
+    "device_identifier": "MacBookPro5,3/MacBookPro5,4"
   },
   {
     "name": "MacBook Pro (13-inch, Mid 2009)",
-    "model": "MacBookPro5,5"
+    "device_identifier": "MacBookPro5,5"
   },
   {
     "name": "MacBook Pro (17-inch, Early 2010)",
-    "model": "MacBookPro6,1"
+    "device_identifier": "MacBookPro6,1"
   },
   {
     "name": "MacBook Pro (15-inch, Early 2010)",
-    "model": "MacBookPro6,2"
+    "device_identifier": "MacBookPro6,2"
   },
   {
     "name": "MacBook Pro (13-inch, Early 2010)",
-    "model": "MacBookPro7,1"
+    "device_identifier": "MacBookPro7,1"
   },
   {
     "name": "MacBook Pro (13-inch, Early/Late 2011)",
-    "model": "MacBookPro8,1"
+    "device_identifier": "MacBookPro8,1"
   },
   {
     "name": "MacBook Pro (15-inch, Early/Late 2011)",
-    "model": "MacBookPro8,2"
+    "device_identifier": "MacBookPro8,2"
   },
   {
     "name": "MacBook Pro (17-inch, Early/Late 2011)",
-    "model": "MacBookPro8,3"
+    "device_identifier": "MacBookPro8,3"
   },
   {
     "name": "MacBook Pro (15-inch, Mid 2012)",
-    "model": "MacBookPro9,1"
+    "device_identifier": "MacBookPro9,1"
   },
   {
     "name": "MacBook Pro (13-inch, Mid 2012)",
-    "model": "MacBookPro9,2"
+    "device_identifier": "MacBookPro9,2"
   },
   {
     "name": "MacBook Pro (15-inch, Retina 2012/Early 2013)",
-    "model": "MacBookPro10,1"
+    "device_identifier": "MacBookPro10,1"
   },
   {
     "name": "MacBook Pro (13-inch, Retina 2012/Early 2013)",
-    "model": "MacBookPro10,2"
+    "device_identifier": "MacBookPro10,2"
   },
   {
     "name": "MacBook Pro (13-inch, Late 2013)",
-    "model": "MacBookPro11,1"
+    "device_identifier": "MacBookPro11,1"
   },
   {
     "name": "MacBook Pro (15-inch, Late 2013)",
-    "model": "MacBookPro11,2"
+    "device_identifier": "MacBookPro11,2"
   },
   {
     "name": "MacBook Pro (15-inch, Mid 2014)",
-    "model": "MacBookPro11,3"
+    "device_identifier": "MacBookPro11,3"
   },
   {
     "name": "MacBook Pro (15-inch, Mid 2015)",
-    "model": "MacBookPro11,4/MacBookPro11,5"
+    "device_identifier": "MacBookPro11,4/MacBookPro11,5"
   },
   {
     "name": "MacBook Pro (13-inch, Early 2015)",
-    "model": "MacBookPro12,1"
+    "device_identifier": "MacBookPro12,1"
   },
   {
     "name": "MacBook Pro (13-inch, Late 2016)",
-    "model": "MacBookPro13,1/MacBookPro13,2"
+    "device_identifier": "MacBookPro13,1/MacBookPro13,2"
   },
   {
     "name": "MacBook Pro (15-inch, Late 2016)",
-    "model": "MacBookPro13,3"
+    "device_identifier": "MacBookPro13,3"
   },
   {
     "name": "MacBook Pro (13-inch, Mid 2017)",
-    "model": "MacBookPro14,1/MacBookPro14,2"
+    "device_identifier": "MacBookPro14,1/MacBookPro14,2"
   },
   {
     "name": "MacBook Pro (15-inch, Mid 2017)",
-    "model": "MacBookPro14,3"
+    "device_identifier": "MacBookPro14,3"
   },
   {
     "name": "MacBook Pro (15-inch, 2018)",
-    "model": "MacBookPro15,1"
+    "device_identifier": "MacBookPro15,1"
   },
   {
     "name": "MacBook Pro (13-inch, 2018)",
-    "model": "MacBookPro15,2"
+    "device_identifier": "MacBookPro15,2"
   },
   {
     "name": "MacBook Pro (15-inch, 2019)",
-    "model": "MacBookPro15,3"
+    "device_identifier": "MacBookPro15,3"
   },
   {
     "name": "MacBook Pro (13-inch, 2019)",
-    "model": "MacBookPro15,4"
+    "device_identifier": "MacBookPro15,4"
   },
   {
     "name": "MacBook Pro (16-inch, 2019)",
-    "model": "MacBookPro16,1"
+    "device_identifier": "MacBookPro16,1"
   },
   {
     "name": "MacBook Pro (13-inch, 2020)",
-    "model": "MacBookPro16,2/MacBookPro16,3"
+    "device_identifier": "MacBookPro16,2/MacBookPro16,3"
   },
   {
     "name": "MacBook Pro (16-inch, 2020)",
-    "model": "MacBookPro16,4"
+    "device_identifier": "MacBookPro16,4"
   },
   {
     "name": "MacBook Pro (13-inch, M1 2020)",
-    "model": "MacBookPro17,1"
+    "device_identifier": "MacBookPro17,1"
   },
   {
     "name": "MacBook Pro (16-inch, 2021)",
-    "model": "MacBookPro18,1/MacBookPro18,2"
+    "device_identifier": "MacBookPro18,1/MacBookPro18,2"
   },
   {
     "name": "MacBook Pro (14-inch, 2021)",
-    "model": "MacBookPro18,3/MacBookPro18,4"
+    "device_identifier": "MacBookPro18,3/MacBookPro18,4"
   },
   {
     "name": "MacBook Pro (13-inch, 2022)",
-    "model": "Mac14,7"
+    "device_identifier": "Mac14,7"
+  },
+  {
+    "name": "MacBook Pro (14-inch, 2023)",
+    "device_identifier": "Mac14,5/Mac14,9"
+  },
+  {
+    "name": "MacBook Pro (16-inch, 2023)",
+    "device_identifier": "Mac14,6/Mac14,10"
+  },
+  {
+    "name": "MacBook Pro (14-inch, Nov 2023)",
+    "device_identifier": "Mac15,3/Mac15,6/Mac15,8/Mac15,10"
+  },
+  {
+    "name": "MacBook Pro (16-inch, Nov 2023)",
+    "device_identifier": "Mac15,7/Mac15,9/Mac15,11"
+  },
+  {
+    "name": "MacBook Pro (14-inch, Nov 2024)",
+    "device_identifier": "Mac16,1/Mac16,6/Mac16,8"
+  },
+  {
+    "name": "MacBook Pro (16-inch, Nov 2024)",
+    "device_identifier": "Mac16,5/Mac16,7"
   },
   {
     "name": "MacBook Air (13-inch, Original 2008)",
-    "model": "MacBookAir1,1"
+    "device_identifier": "MacBookAir1,1"
   },
   {
     "name": "MacBook Air (13-inch, Late 2008/Mid 2009)",
-    "model": "MacBookAir2,1"
+    "device_identifier": "MacBookAir2,1"
   },
   {
     "name": "MacBook Air (11-inch, Late 2010)",
-    "model": "MacBookAir3,1"
+    "device_identifier": "MacBookAir3,1"
   },
   {
     "name": "MacBook Air (13-inch, Late 2010)",
-    "model": "MacBookAir3,2"
+    "device_identifier": "MacBookAir3,2"
   },
   {
     "name": "MacBook Air (11-inch, Mid 2011)",
-    "model": "MacBookAir4,1"
+    "device_identifier": "MacBookAir4,1"
   },
   {
     "name": "MacBook Air (13-inch, Mid 2011)",
-    "model": "MacBookAir4,2"
+    "device_identifier": "MacBookAir4,2"
   },
   {
     "name": "MacBook Air (11-inch, Mid 2012)",
-    "model": "MacBookAir5,1"
+    "device_identifier": "MacBookAir5,1"
   },
   {
     "name": "MacBook Air (13-inch, Mid 2012)",
-    "model": "MacBookAir5,2"
+    "device_identifier": "MacBookAir5,2"
   },
   {
     "name": "MacBook Air (11-inch, Mid 2013/Early 2014)",
-    "model": "MacBookAir6,1"
+    "device_identifier": "MacBookAir6,1"
   },
   {
     "name": "MacBook Air (13-inch, Mid 2013/Early 2014)",
-    "model": "MacBookAir6,2"
+    "device_identifier": "MacBookAir6,2"
   },
   {
     "name": "MacBook Air (11-inch, Early 2015)",
-    "model": "MacBookAir7,1"
+    "device_identifier": "MacBookAir7,1"
   },
   {
     "name": "MacBook Air (13-inch, Early 2015/Mid 2017)",
-    "model": "MacBookAir7,2"
+    "device_identifier": "MacBookAir7,2"
   },
   {
     "name": "MacBook Air (13-inch, Late 2018)",
-    "model": "MacBookAir8,1"
+    "device_identifier": "MacBookAir8,1"
   },
   {
     "name": "MacBook Air (13-inch, 2019)",
-    "model": "MacBookAir8,2"
+    "device_identifier": "MacBookAir8,2"
   },
   {
     "name": "MacBook Air (13-inch, 2020)",
-    "model": "MacBookAir9,1"
+    "device_identifier": "MacBookAir9,1"
   },
   {
     "name": "MacBook Air (13-inch, M1 2020)",
-    "model": "MacBookAir10,1"
+    "device_identifier": "MacBookAir10,1"
   },
   {
     "name": "MacBook Air (13-inch, 2022)",
-    "model": "Mac14,2"
+    "device_identifier": "Mac14,2"
+  },
+  {
+    "name": "MacBook Air (15-inch, 2023)",
+    "device_identifier": "Mac14,15"
+  },
+  {
+    "name": "MacBook Air (13-inch, 2024)",
+    "device_identifier": "Mac15,12"
+  },
+  {
+    "name": "MacBook Air (15-inch, 2024)",
+    "device_identifier": "Mac15,13"
+  },
+  {
+    "name": "MacBook Air (13-inch, 2025)",
+    "device_identifier": "Mac16,12"
+  },
+  {
+    "name": "MacBook Air (15-inch, 2025)",
+    "device_identifier": "Mac16,13"
   },
   {
     "name": "MacBook (13-inch, Original 2006)",
-    "model": "MacBook1,1"
+    "device_identifier": "MacBook1,1"
   },
   {
     "name": "MacBook (13-inch, Late 2006/Mid 2007)",
-    "model": "MacBook2,1"
+    "device_identifier": "MacBook2,1"
   },
   {
     "name": "MacBook (13-inch, Late 2007)",
-    "model": "MacBook3,1"
+    "device_identifier": "MacBook3,1"
   },
   {
     "name": "MacBook (13-inch, Early 2008)",
-    "model": "MacBook4,1"
+    "device_identifier": "MacBook4,1"
   },
   {
     "name": "MacBook (13-inch, Late 2008)",
-    "model": "MacBook5,1"
+    "device_identifier": "MacBook5,1"
   },
   {
     "name": "MacBook (13-inch, Early/Mid 2009)",
-    "model": "MacBook5,2"
+    "device_identifier": "MacBook5,2"
   },
   {
     "name": "MacBook (13-inch, Late 2009)",
-    "model": "MacBook6,1"
+    "device_identifier": "MacBook6,1"
   },
   {
     "name": "MacBook (13-inch, Mid 2010)",
-    "model": "MacBook7,1"
+    "device_identifier": "MacBook7,1"
   },
   {
     "name": "MacBook (12-inch, Early 2015)",
-    "model": "MacBook8,1"
+    "device_identifier": "MacBook8,1"
   },
   {
     "name": "MacBook (12-inch, Early 2016)",
-    "model": "MacBook9,1"
+    "device_identifier": "MacBook9,1"
   },
   {
     "name": "MacBook (12-inch, Mid 2017)",
-    "model": "MacBook10,1"
+    "device_identifier": "MacBook10,1"
   },
   {
     "name": "Mac Pro (Original 2006)",
-    "model": "MacPro1,1"
+    "device_identifier": "MacPro1,1"
   },
   {
     "name": "Mac Pro (2007)",
-    "model": "MacPro2,1"
+    "device_identifier": "MacPro2,1"
   },
   {
     "name": "Mac Pro (2008)",
-    "model": "MacPro3,1"
+    "device_identifier": "MacPro3,1"
   },
   {
     "name": "Mac Pro (2009)",
-    "model": "MacPro4,1"
+    "device_identifier": "MacPro4,1"
   },
   {
     "name": "Mac Pro (2010)",
-    "model": "MacPro5,1"
+    "device_identifier": "MacPro5,1"
   },
   {
     "name": "Mac Pro (Late 2013)",
-    "model": "MacPro6,1"
+    "device_identifier": "MacPro6,1"
   },
   {
     "name": "Mac Pro (2019)",
-    "model": "MacPro7,1"
+    "device_identifier": "MacPro7,1"
+  },
+  {
+    "name": "Mac Pro (2023)",
+    "device_identifier": "Mac14,8"
   },
   {
     "name": "iMac (17/20-inch, Early 2006)",
-    "model": "iMac4,1"
+    "device_identifier": "iMac4,1"
   },
   {
     "name": "iMac (17-inch, Mid 2006)",
-    "model": "iMac4,2"
+    "device_identifier": "iMac4,2"
   },
   {
     "name": "iMac (17/20-inch, Late 2006)",
-    "model": "iMac5,1"
+    "device_identifier": "iMac5,1"
   },
   {
     "name": "iMac (17-inch, Late 2006)",
-    "model": "iMac5,2"
+    "device_identifier": "iMac5,2"
   },
   {
     "name": "iMac (24-inch, 2006)",
-    "model": "iMac6,1"
+    "device_identifier": "iMac6,1"
   },
   {
     "name": "iMac (20/24-inch, 2007)",
-    "model": "iMac7,1"
+    "device_identifier": "iMac7,1"
   },
   {
     "name": "iMac (20/24-inch, 2008)",
-    "model": "iMac8,1"
+    "device_identifier": "iMac8,1"
   },
   {
     "name": "iMac (20/24-inch, 2009)",
-    "model": "iMac9,1"
+    "device_identifier": "iMac9,1"
   },
   {
     "name": "iMac (21.5-inch, Late 2009)",
-    "model": "iMac10,1"
+    "device_identifier": "iMac10,1"
   },
   {
     "name": "iMac (27-inch, 2009)",
-    "model": "iMac11,1"
+    "device_identifier": "iMac11,1"
   },
   {
     "name": "iMac (21.5-inch, 2010)",
-    "model": "iMac11,2"
+    "device_identifier": "iMac11,2"
   },
   {
     "name": "iMac (27-inch, 2010)",
-    "model": "iMac11,3"
+    "device_identifier": "iMac11,3"
   },
   {
     "name": "iMac (21.5-inch, 2011)",
-    "model": "iMac12,1"
+    "device_identifier": "iMac12,1"
   },
   {
     "name": "iMac (27-inch, 2011)",
-    "model": "iMac12,2"
+    "device_identifier": "iMac12,2"
   },
   {
     "name": "iMac (21.5-inch, 2012)",
-    "model": "iMac13,1/iMac13,3"
+    "device_identifier": "iMac13,1/iMac13,3"
   },
   {
     "name": "iMac (27-inch, 2012)",
-    "model": "iMac13,2"
+    "device_identifier": "iMac13,2"
   },
   {
     "name": "iMac (21.5-inch, 2013)",
-    "model": "iMac14,1/iMac14,3"
+    "device_identifier": "iMac14,1/iMac14,3"
   },
   {
     "name": "iMac (27-inch, 2013)",
-    "model": "iMac14,2"
+    "device_identifier": "iMac14,2"
   },
   {
     "name": "iMac (21.5-inch, 2014)",
-    "model": "iMac14,4"
+    "device_identifier": "iMac14,4"
   },
   {
     "name": "iMac (27-inch, 2014/Mid 2015)",
-    "model": "iMac15,1/iMac15,2"
+    "device_identifier": "iMac15,1/iMac15,2"
   },
   {
     "name": "iMac (21.5-inch, 2015)",
-    "model": "iMac16,1/iMac16,2"
+    "device_identifier": "iMac16,1/iMac16,2"
   },
   {
     "name": "iMac (27-inch, Late 2015)",
-    "model": "iMac17,1"
+    "device_identifier": "iMac17,1"
   },
   {
     "name": "iMac (21.5-inch, 2017)",
-    "model": "iMac18,1"
+    "device_identifier": "iMac18,1"
   },
   {
     "name": "iMac (21.5-inch, 4K 2017)",
-    "model": "iMac18,2"
+    "device_identifier": "iMac18,2"
   },
   {
     "name": "iMac (27-inch, 2017)",
-    "model": "iMac18,3"
+    "device_identifier": "iMac18,3"
   },
   {
     "name": "iMac (27-inch, 2019)",
-    "model": "iMac19,1"
+    "device_identifier": "iMac19,1"
   },
   {
     "name": "iMac (21.5-inch, 2019)",
-    "model": "iMac19,2"
+    "device_identifier": "iMac19,2"
   },
   {
     "name": "iMac (27-inch, 2020)",
-    "model": "iMac20,1/iMac20,2"
+    "device_identifier": "iMac20,1/iMac20,2"
   },
   {
-    "name": "iMac (2021)",
-    "model": "iMac21,1/iMac21,2"
+    "name": "iMac (24-inch, 2021)",
+    "device_identifier": "iMac21,1/iMac21,2"
   },
   {
     "name": "iMac Pro (27-inch, 2017)",
-    "model": "iMacPro1,1"
+    "device_identifier": "iMacPro1,1"
+  },
+  {
+    "name": "iMac (24-inch, 2023)",
+    "device_identifier": "Mac15,4/Mac15,5"
+  },
+  {
+    "name": "iMac (24-inch, 2024)",
+    "device_identifier": "Mac16,2/Mac16,3"
   },
   {
     "name": "Mac Mini (2006)",
-    "model": "Macmini1,1"
+    "device_identifier": "Macmini1,1"
   },
   {
     "name": "Mac Mini (2007)",
-    "model": "Macmini2,1"
+    "device_identifier": "Macmini2,1"
   },
   {
     "name": "Mac Mini (2009)",
-    "model": "Macmini3,1"
+    "device_identifier": "Macmini3,1"
   },
   {
     "name": "Mac Mini (2010)",
-    "model": "Macmini4,1"
+    "device_identifier": "Macmini4,1"
   },
   {
     "name": "Mac Mini (2011)",
-    "model": "Macmini5,1/Macmini5,2/Macmini5,3"
+    "device_identifier": "Macmini5,1/Macmini5,2/Macmini5,3"
   },
   {
     "name": "Mac Mini (2012)",
-    "model": "Macmini6,1/Macmini6,2"
+    "device_identifier": "Macmini6,1/Macmini6,2"
   },
   {
     "name": "Mac Mini (2014)",
-    "model": "Macmini7,1"
+    "device_identifier": "Macmini7,1"
   },
   {
     "name": "Mac Mini (2018)",
-    "model": "Macmini8,1"
+    "device_identifier": "Macmini8,1"
   },
   {
     "name": "Mac Mini (Developer Transition Kit)",
-    "model": "APD3,2"
+    "device_identifier": "APD3,2"
   },
   {
     "name": "Mac Mini (2020)",
-    "model": "Macmini9,1"
+    "device_identifier": "Macmini9,1"
+  },
+  {
+    "name": "Mac Mini (2023)",
+    "device_identifier": "Mac14,3/Mac14,12"
+  },
+  {
+    "name": "Mac Mini (2024)",
+    "device_identifier": "Mac16,10/Mac16,11"
+  },
+  {
+    "name": "Mac Studio",
+    "device_identifier": "Mac13,1/Mac13,2"
+  },
+  {
+    "name": "Mac Studio (2023)",
+    "device_identifier": "Mac14,13/Mac14,14"
+  },
+  {
+    "name": "Mac Studio (2025)",
+    "device_identifier": "Mac16,9/Mac15,14"
+  },
+  {
+    "name": "HomePod",
+    "device_identifier": "AudioAccessory1,1/AudioAccessory1,2"
+  },
+  {
+    "name": "HomePod (2nd generation)",
+    "device_identifier": "AudioAccessory6,1"
+  },
+  {
+    "name": "HomePod mini",
+    "device_identifier": "AudioAccessory5,1"
+  },
+  {
+    "name": "Apple Vision Pro",
+    "device_identifier": "RealityDevice14,1"
   }
 ]
